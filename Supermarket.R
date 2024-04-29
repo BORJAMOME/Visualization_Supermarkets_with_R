@@ -1,5 +1,4 @@
 # Load required libraries
-# packages
 library(sf)
 library(giscoR)
 library(mapSpain)
@@ -37,9 +36,10 @@ final_map <- ggplot() +
   geom_sf(data = EA_spain, color = "#269e6b", fill = "#269e6b", alpha = 0.6, size = 0.5, shape = 16) +
   coord_sf(xlim = c(-10, 5), ylim = c(35, 45)) +
   theme_void() +
-  ggtitle("Mercadona Supermarkets Distribution in Spain") +
-  theme(plot.title = element_text(family = "Arial", color = "#333333", size = 18, hjust = 0.5, vjust = 1),
-        plot.background = element_rect(fill = "#ffffff"))
+  ggtitle("Mercadona") +
+  theme(plot.title = element_text(family = "Lato", color = "#333333", size = 18, hjust = 0.5, vjust = 1,
+                                  face = "bold", lineheight = 1.2)) +
+  theme(plot.background = element_rect(fill = "#fffefc"))
 
 # Display the final map
 final_map
