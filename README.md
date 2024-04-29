@@ -1,4 +1,6 @@
 # Mercadona Supermarkets Distribution with R 🏪🗺️
+  <img src="https://img.shields.io/badge/Language-R-blue" alt="Language">
+
 
 Welcome to the Mercadona Supermarkets Distribution project! This repository contains R code to visualize the distribution of Mercadona supermarkets across Spain using OpenStreetMap data. Mercadona is one of the largest supermarket chains in Spain, and understanding its geographical presence can provide valuable insights into consumer behavior and market dynamics.
 
