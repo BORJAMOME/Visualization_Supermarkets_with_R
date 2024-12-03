@@ -1,16 +1,19 @@
-# Mercadona Supermarkets Distribution with R 🏪🗺️
+# Mapa sobre la distribución de Mercadona en España
   <img src="https://img.shields.io/badge/Language-R-blue" alt="Language">
 
 
-Welcome to the Mercadona Supermarkets Distribution project! This repository contains R code to visualize the distribution of Mercadona supermarkets across Spain using OpenStreetMap data. Mercadona is one of the largest supermarket chains in Spain, and understanding its geographical presence can provide valuable insights into consumer behavior and market dynamics.
+Este proyecto, desarrollado en R, tiene como objetivo visualizar la distribución geográfica de los supermercados Mercadona en España. Usando datos de OpenStreetMap, he creado una representación visual interactiva que muestra la presencia y concentración de Mercadona en diferentes regiones del país.
 
-## Introduction
+### ¿Por qué Mercadona?
+Mercadona es una de las cadenas de supermercados más grandes y relevantes de España. Analizar su red de tiendas nos ayuda a entender mejor los patrones de comportamiento del consumidor y las dinámicas del mercado a nivel local y nacional.
 
-Understanding the spatial distribution of supermarkets is crucial for various stakeholders, including retailers, urban planners, and policymakers. Mercadona, being a prominent player in the Spanish retail market, has a significant impact on local economies and consumer choices. This project aims to visualize the geographical distribution of Mercadona supermarkets at a provincial level in Spain, providing an insightful perspective on their market reach and penetration.
+
+###  Objetivo del Proyecto
+
+Visualizar la expansión de Mercadona para obtener información valiosa sobre su impacto en la distribución de servicios y productos a nivel de zonas urbanas y rurales.
 
 <p align="center">
   <img src="https://github.com/BORJAMOME/Visualization_Supermarkets_with_R/assets/19588053/75578894-8c55-4383-aa0c-08a4645a34b9" alt="Mapa de Mercadona">
-  <img src="https://github.com/BORJAMOME/Visualization_Supermarkets_with_R/assets/19588053/244f40ef-2080-44af-afb2-2a2d1043ab13" alt="Captura de Pantalla">
 </p>
 
 
