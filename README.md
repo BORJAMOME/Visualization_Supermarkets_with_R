@@ -46,7 +46,7 @@ El análisis se realizó utilizando un conjunto de herramientas de **R** para el
 
 
 
-## Código reproducible
+## Código
 
 Puedes generar el mapa utilizando el siguiente código en R:
 
